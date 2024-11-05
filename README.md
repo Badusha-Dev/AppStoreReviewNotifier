@@ -22,5 +22,5 @@ Feedback and contributions are welcome! Submit issues or pull requests to help i
 
 
 ## Screenshots
-<img width="1440" alt="Screenshot 2024-11-05 at 10 04 06 PM" src="https://github.com/user-attachments/assets/7ded0086-320d-4d91-9ad4-3a2d49d8fdc5">
-<img width="1440" alt="Screenshot 2024-11-05 at 9 22 41 PM" src="https://github.com/user-attachments/assets/4c6e7509-6ba6-4602-8b73-7d79ced1c13a">
+<img width="1440" alt="Screenshot 2024-11-05 at 9 22 41 PM" src="https://github.com/user-attachments/assets/051435b8-75e9-4678-add5-a212d77870b0">
+<img width="1440" alt="Screenshot 2024-11-05 at 10 04 06 PM" src="https://github.com/user-attachments/assets/0e4593f2-b3a1-40bc-bdc1-192a6f5c3bb8">
