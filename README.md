@@ -10,6 +10,12 @@
 ## Security Note
 This app utilizes JWT tokens for authentication. JWT token generation is handled securely using Swift JWT SDK, but it’s best to generate tokens server-side when possible. A Ruby code snippet for secure backend-based JWT generation is included.
 
+## Requirements
+To use this app, you will need:
+- **App Store Connect API Key**: The private key file for JWT authentication (in `.p8` format).
+- **Issuer ID**: Your App Store Connect issuer identifier.
+- **Key ID**: The ID of the private key associated with your App Store Connect API Key.
+
 ## Dependencies
 - **Swift**
 - **SwiftUI**
